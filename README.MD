@@ -46,6 +46,7 @@ sudo cp -rf /mnt/c/Users/KADİR/Desktop/cvn-tool/system /mnt/c/Users/KADİR/Desk
 sudo cp -rf /mnt/c/Users/KADİR/Desktop/cvn-tool/system /mnt/c/Users/KADİR/Desktop/cvn-tool/ID
 sudo cp -rf /mnt/c/Users/KADİR/Desktop/cvn-tool/data-app /mnt/c/Users/KADİR/Desktop/cvn-tool/ID/system
 sudo cp -rf /mnt/c/Users/KADİR/Desktop/cvn-tool/bootanimation.zip /mnt/c/Users/KADİR/Desktop/cvn-tool/ID/system/media
+sudo cp -rf /mnt/c/Users/KADİR/Desktop/cvn-tool/build.prop /mnt/c/Users/KADİR/Desktop/cvn-tool/ID/system
 ```
 
 ### Adım 4: Gereksiz Dosyaları Silme
